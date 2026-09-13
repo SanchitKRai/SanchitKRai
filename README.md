@@ -153,9 +153,7 @@ I am learning to connect **biology + data + computation**: from analysing biolog
 </table>
 
 <div align="center">
-  <sub><b>Tool flow — how the dashboard is built, end to end</b></sub>
-  <br /><br />
-  <img src="skills-flow.svg" alt="Excel to SQL to Python to Fabric to Power BI tool flow" width="100%">
+ 
 </div>
 
 <div align="center">
