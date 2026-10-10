@@ -1,11 +1,13 @@
 <div align="center">
 
-<!-- Animated profile header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:080B1A,45:123B69,100:00D4AA&text=SANCHIT%20KUMAR%20RAI&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20Analytics%20%7C%20Computational%20Biology&descAlignY=59&descSize=15&animation=fadeIn" alt="Sanchit Kumar Rai — Data Science, Machine Learning, Analytics and Computational Biology" />
+<!-- Custom animated header (assets/header.svg): DNA helix, shimmering name, typed tagline -->
+<img src="./assets/header.svg" width="100%" alt="Sanchit Kumar Rai — Data Science, Machine Learning, Analytics and Computational Biology" />
 
 <a href="https://readme-typing-svg.herokuapp.com">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=650&color=00D4AA&center=true&vCenter=true&width=850&lines=I+turn+messy+data+into+useful+decisions.;Building+ML+apps%2C+forecasts%2C+and+interactive+dashboards.;Life+Sciences+%C3%97+AI+%C3%97+Data+Analytics;Learning+by+shipping+real+projects." alt="Animated introduction" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=700&color=00D4AA&center=true&vCenter=true&width=850&height=40&lines=I+turn+messy+data+into+useful+decisions.;Building+ML+apps%2C+forecasts%2C+and+interactive+dashboards.;Life+Sciences+%C3%97+AI+%C3%97+Data+Analytics;Learning+by+shipping+real+projects." alt="Animated introduction" />
 </a>
+
+<br/><br/>
 
 <p>
   <a href="https://www.linkedin.com/in/sanchit-kumar-rai/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -13,14 +15,17 @@
   <a href="https://github.com/SanchitKRai"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
-<a href="https://github.com/SanchitKRai?tab=followers"><img src="https://img.shields.io/github/followers/SanchitKRai?label=FOLLOWERS&style=flat-square&color=00D4AA" alt="GitHub followers" /></a>
-<a href="https://github.com/SanchitKRai?tab=repositories"><img src="https://img.shields.io/github/stars/SanchitKRai?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&color=4C8DFF&label=REPO%20STARS" alt="Repository stars" /></a>
-<br/>
-<img src="https://komarev.com/ghpvc/?username=SanchitKRai&label=PROFILE%20VIEWS&color=00D4AA&style=for-the-badge" alt="Profile views counter" />
+<a href="https://github.com/SanchitKRai?tab=followers"><img src="https://img.shields.io/github/followers/SanchitKRai?label=FOLLOWERS&style=flat-square&color=00D4AA&labelColor=0D1117" alt="GitHub followers" /></a>
+<a href="https://github.com/SanchitKRai?tab=repositories"><img src="https://img.shields.io/github/stars/SanchitKRai?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&color=4C8DFF&label=REPO%20STARS&labelColor=0D1117" alt="Repository stars" /></a>
+<img src="https://komarev.com/ghpvc/?username=SanchitKRai&label=PROFILE%20VIEWS&color=00D4AA&style=flat-square&labelColor=0D1117" alt="Profile views counter" />
+
+<br/><br/>
+
+<img src="./assets/terminal.svg" width="82%" alt="Animated terminal: whoami, mission, projects" />
+
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 </div>
-
----
 
 ## `whoami` 👋
 
@@ -28,134 +33,120 @@ Hey, I'm **Sanchit** — a **B.Sc. Life Sciences student at Sri Aurobindo Colleg
 
 I enjoy taking a problem from raw data to a working result: cleaning datasets, exploring patterns, building predictive models, forecasting demand, and turning analysis into dashboards or small web apps. My life-sciences background also gives me a reason to explore healthcare AI and computational biology.
 
-### My current portfolio mix
+### 🎛️ My current portfolio mix
 
-<table>
-<tr>
-<td width="50%">
-  <b>🧠 Data Science & Machine Learning</b><br/>
-  <img src="https://img.shields.io/badge/FOCUS-50%25-00D4AA?style=for-the-badge" alt="50 percent focus"/><br/>
-  Predictive modelling, feature engineering, model evaluation, time-series forecasting, explainability, and deploying ML prototypes.
-</td>
-<td width="50%">
-  <b>📊 Data Analytics</b><br/>
-  <img src="https://img.shields.io/badge/FOCUS-30%25-4C8DFF?style=for-the-badge" alt="30 percent focus"/><br/>
-  SQL, Python, Excel, Power BI, data cleaning, KPI design, and communicating insights through dashboards.
-</td>
-</tr>
-<tr>
-<td colspan="2">
-  <b>🧬 Biotechnology, Life Sciences & Computational Biology</b><br/>
-  <img src="https://img.shields.io/badge/FOCUS-20%25-B783FF?style=for-the-badge" alt="20 percent focus"/><br/>
-  Healthcare datasets, bioinformatics, molecular docking, and computational approaches to biological questions.
-</td>
-</tr>
-</table>
+<div align="center">
+  <img src="./assets/focus.svg" width="92%" alt="Portfolio mix: 50% Data Science and ML, 30% Data Analytics, 20% Biotech and Computational Biology" />
+</div>
 
-> **My approach:** understand the problem → inspect the data → build a baseline → test honestly → communicate what the results mean.
+<div align="center">
+  <img src="./assets/pipeline.svg" width="92%" alt="My approach: data, models, insights, impact" />
+</div>
 
----
+<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
 
 ## 🚀 Featured Projects
 
-<!-- Keep these cards focused on working demos and concrete project outcomes. -->
+<!-- Each card is an animated SVG in /assets. Click a card to open the project. -->
 
+<div align="center">
 <table>
 <tr>
-<td width="50%" valign="top">
-<h3>🏙️ NYC Airbnb Predictor</h3>
-<a href="https://nyc-room-type-predictor-gpjz.onrender.com/"><img src="https://img.shields.io/badge/OPEN%20LIVE%20APP-00D4AA?style=for-the-badge&logo=render&logoColor=white" alt="Open NYC Airbnb Predictor"/></a>
-<p>Machine-learning web app that predicts an Airbnb room-type category from listing features.</p>
-<sub>Python · pandas · scikit-learn · FastAPI · ML deployment</sub>
+<td width="50%" align="center">
+  <a href="https://nyc-room-type-predictor-gpjz.onrender.com/"><img src="./assets/card-airbnb.svg" width="100%" alt="NYC Airbnb Predictor — open live app" /></a>
 </td>
-<td width="50%" valign="top">
-<h3>🩺 Type 2 Diabetes Digital Twin</h3>
-<a href="https://type2diabetes-digitaltwin.streamlit.app/"><img src="https://img.shields.io/badge/OPEN%20STREAMLIT%20APP-00D4AA?style=for-the-badge&logo=streamlit&logoColor=white" alt="Open Type 2 Diabetes Digital Twin"/></a>
-<p>A proof-of-concept exploring glucose-spike prediction from synthetic CGM, wearable, and EHR-style signals.</p>
-<sub>Python · pandas · XGBoost · SHAP · time-series features</sub>
+<td width="50%" align="center">
+  <a href="https://type2diabetes-digitaltwin.streamlit.app/"><img src="./assets/card-diabetes.svg" width="100%" alt="Type 2 Diabetes Digital Twin — open Streamlit app" /></a>
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-<h3>⚡ EV Charging Demand Forecasting</h3>
-<p>An end-to-end forecasting project: clean charging-session data, analyse usage patterns, compare forecasting approaches, generate 30/90/365-day forecasts, and communicate results in Power BI.</p>
-<sub>Python · time series · Prophet · Power BI</sub><br/>
-<sub>Reported evaluation: RMSE 3,782.32 kWh · MAPE 16.57%</sub>
+<td width="50%" align="center">
+  <img src="./assets/card-ev.svg" width="100%" alt="EV Charging Demand Forecasting — RMSE 3,782.32 kWh, MAPE 16.57%" />
 </td>
-<td width="50%" valign="top">
-<h3>🧭 NextUp — From Confused to Career-Proof</h3>
-<a href="https://pathfinder-forge-drab.vercel.app/"><img src="https://img.shields.io/badge/EXPLORE%20PROJECT-4C8DFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore NextUp"/></a>
-<p>A career-path exploration project designed to help users move from uncertainty toward a clearer next step.</p>
-<sub>Web app · career exploration</sub>
+<td width="50%" align="center">
+  <a href="https://pathfinder-forge-drab.vercel.app/"><img src="./assets/card-nextup.svg" width="100%" alt="NextUp — From Confused to Career-Proof" /></a>
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-<h3>📈 DataLens Insights</h3>
-<a href="https://datalens-insights.lovable.app/"><img src="https://img.shields.io/badge/OPEN%20PROJECT-4C8DFF?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Open DataLens Insights"/></a>
-<p>An interactive data-insights project focused on making information easier to explore and interpret.</p>
-<sub>Data insights · visualisation · web app</sub>
+<td width="50%" align="center">
+  <a href="https://datalens-insights.lovable.app/"><img src="./assets/card-datalens.svg" width="100%" alt="DataLens Insights" /></a>
 </td>
-<td width="50%" valign="top">
-<h3>🧪 DockLens</h3>
-<a href="https://docklens-bioedge.streamlit.app/"><img src="https://img.shields.io/badge/OPEN%20STREAMLIT%20APP-B783FF?style=for-the-badge&logo=streamlit&logoColor=white" alt="Open DockLens"/></a>
-<p>A computational drug-discovery prototype combining docking workflows with ML-based affinity estimation and model explainability.</p>
-<sub>Python · AutoDock Vina · XGBoost/Random Forest · SHAP</sub>
+<td width="50%" align="center">
+  <a href="https://docklens-bioedge.streamlit.app/"><img src="./assets/card-docklens.svg" width="100%" alt="DockLens — docking plus ML affinity estimation" /></a>
 </td>
 </tr>
 </table>
+</div>
 
-### More work from my project lab
+### 🧫 More work from my project lab
 
 | Project | What it explores | Link |
 |---|---|---|
-| **BioEdge India** | AI tools, learning resources, and career support for life-sciences learners | [Open site](https://bioedgeindia.vercel.app/) |
-| **GeneScope Web** | DNA sequence utilities, ORF detection, alignment, GC content, and primer-related analysis | [Open app](https://dna-sequence-analyzer-gamma.vercel.app/) |
-| **HR Attrition Analytics** | HR KPIs and attrition analysis using Microsoft Fabric and Power BI, including security concepts | Project details available in my GitHub repositories |
-| **Neural Feed** | React-based AI-news aggregator prototype | Project in progress |
+| 🧬 **BioEdge India** | AI tools, learning resources, and career support for life-sciences learners | [Open site](https://bioedgeindia.vercel.app/) |
+| 🔬 **GeneScope Web** | DNA sequence utilities, ORF detection, alignment, GC content, and primer-related analysis | [Open app](https://dna-sequence-analyzer-gamma.vercel.app/) |
+| 👥 **HR Attrition Analytics** | HR KPIs and attrition analysis using Microsoft Fabric and Power BI, including security concepts | Project details available in my GitHub repositories |
+| 📰 **Neural Feed** | React-based AI-news aggregator prototype | Project in progress |
 
----
+<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
 
 ## 🧰 Toolkit
 
 <div align="center">
 
+<img src="https://skillicons.dev/icons?i=python,sklearn,pandas,numpy,mysql,r,fastapi,streamlit,git,github,vscode&perline=11" alt="Python, scikit-learn, pandas, NumPy, MySQL, R, FastAPI, Streamlit, Git, GitHub, VS Code" />
+
+<br/><br/>
+
 **Data Science & Machine Learning**<br/>
-<img src="https://skillicons.dev/icons?i=python,sklearn" alt="Python and scikit-learn"/><br/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
-<img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas"/>
-<img src="https://img.shields.io/badge/Time%20Series-0B7285?style=flat-square" alt="Time series"/>
-<img src="https://img.shields.io/badge/SHAP-6A5ACD?style=flat-square" alt="SHAP"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
+<img src="https://img.shields.io/badge/XGBoost-0B7285?style=for-the-badge" alt="XGBoost"/>
+<img src="https://img.shields.io/badge/Time%20Series-0B7285?style=for-the-badge" alt="Time series"/>
+<img src="https://img.shields.io/badge/SHAP-6A5ACD?style=for-the-badge" alt="SHAP"/>
 
 **Data Analytics & Business Intelligence**<br/>
-<img src="https://skillicons.dev/icons?i=mysql,r" alt="SQL and R"/><br/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=111111" alt="Power BI"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel"/>
-<img src="https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Microsoft Fabric"/>
-
-**Apps & Tools**<br/>
-<img src="https://skillicons.dev/icons?i=fastapi,streamlit,git,github,vscode" alt="FastAPI, Streamlit, Git, GitHub, VS Code"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111111" alt="Power BI"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+<img src="https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Fabric"/>
 
 **Life Sciences & Computational Biology**<br/>
-<img src="https://img.shields.io/badge/Bioinformatics-198754?style=flat-square" alt="Bioinformatics"/>
-<img src="https://img.shields.io/badge/Molecular%20Docking-198754?style=flat-square" alt="Molecular docking"/>
-<img src="https://img.shields.io/badge/MD%20Simulation-198754?style=flat-square" alt="Molecular dynamics simulation"/>
-<img src="https://img.shields.io/badge/Healthcare%20AI-198754?style=flat-square" alt="Healthcare AI"/>
+<img src="https://img.shields.io/badge/Bioinformatics-198754?style=for-the-badge" alt="Bioinformatics"/>
+<img src="https://img.shields.io/badge/Molecular%20Docking-198754?style=for-the-badge" alt="Molecular docking"/>
+<img src="https://img.shields.io/badge/MD%20Simulation-198754?style=for-the-badge" alt="Molecular dynamics simulation"/>
+<img src="https://img.shields.io/badge/Healthcare%20AI-198754?style=for-the-badge" alt="Healthcare AI"/>
 
 </div>
 
----
+<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
 
 ## 📊 GitHub at a glance
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SanchitKRai&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=00D4AA&icon_color=4C8DFF" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanchitKRai&layout=compact&hide_border=true&theme=transparent&title_color=00D4AA" alt="Most used languages" />
-  <br/>
-  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=SanchitKRai&hide_border=true&theme=transparent&ring=00D4AA&fire=4C8DFF&currStreakLabel=00D4AA" alt="GitHub contribution streak" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SanchitKRai&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&title_color=00D4AA&icon_color=4C8DFF&bg_color=0D1117" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanchitKRai&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&title_color=00D4AA&bg_color=0D1117" alt="Most used languages" />
+  <br/><br/>
+  <img width="95%" src="https://streak-stats.demolab.com/?user=SanchitKRai&theme=tokyonight&hide_border=true&border_radius=12&ring=00D4AA&fire=4C8DFF&currStreakLabel=00D4AA&background=0D1117" alt="GitHub contribution streak" />
+  <br/><br/>
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SanchitKRai&bg_color=0D1117&color=00D4AA&line=4C8DFF&point=FFFFFF&area=true&area_color=123B69&hide_border=true&radius=12" alt="Contribution activity graph" />
 </div>
 
----
+### 🐍 Contribution snake
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SanchitKRai/SanchitKRai/output/github-snake-dark.svg" />
+  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/SanchitKRai/SanchitKRai/output/github-snake.svg" />
+</picture>
+</div>
+
+### 🏆 Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SanchitKRai&theme=tokyonight&no-frame=true&no-bg=false&column=7&margin-w=10&margin-h=10" alt="GitHub trophies" />
+</div>
+
+<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
 
 ## 🌱 What I'm working toward
 
@@ -167,7 +158,7 @@ I enjoy taking a problem from raw data to a working result: cleaning datasets, e
 
 ### `DATA → MODELS → INSIGHTS → IMPACT`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:00D4AA,50:123B69,100:080B1A" width="100%" alt="Decorative footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00D4AA,50:123B69,100:080B1A" width="100%" alt="Decorative footer"/>
 
 <sub>Built with curiosity, caffeine, and a commitment to keep learning. ✨</sub>
 
