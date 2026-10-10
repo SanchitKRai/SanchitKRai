@@ -29,7 +29,7 @@
 
 ## `whoami` 👋
 
-Hey, I'm **Sanchit** — a **B.Sc. Life Sciences student at Sri Aurobindo College, University of Delhi**, building projects at the intersection of data, software, and biology.
+Hey, I'm **Sanchit** — a **B.Sc. Life Sciences student at  University of Delhi**, building projects at the intersection of data, software, and biology.
 
 I enjoy taking a problem from raw data to a working result: cleaning datasets, exploring patterns, building predictive models, forecasting demand, and turning analysis into dashboards or small web apps.
 
