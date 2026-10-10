@@ -28,7 +28,7 @@
 
 I am a **B.Sc. Life Sciences student** at **Sri Aurobindo College, University of Delhi**, preparing for a career as a **data scientist in biotech, healthcare, research, or another data-driven field**.
 
-I am learning to connect **biology + data + computation**: from analysing biological sequences to exploring molecular interactions and turning complex datasets into clear visual stories.
+I am learning to connect **biology + data + computation**: from analysing biological sequences to exploring molecular interactions, forecasting demand, and turning complex datasets into clear visual stories.
 
 <br />
 
@@ -47,7 +47,7 @@ I am learning to connect **biology + data + computation**: from analysing biolog
     <td align="center" width="33%">
       <img src="https://img.shields.io/badge/03-22D3EE?style=for-the-badge" alt="03" /><br />
       <b>COMPUTATION</b><br />
-      Sequence analysis, docking,<br />MD simulation & RNA-seq
+      Sequence analysis, docking,<br />MD simulation, RNA-seq & forecasting
     </td>
   </tr>
 </table>
@@ -67,7 +67,8 @@ I am learning to connect **biology + data + computation**: from analysing biolog
       <ul>
         <li>Python data analysis with <b>NumPy, pandas, seaborn, and Matplotlib</b></li>
         <li><b>Excel, SQL, Power BI, R</b>, dashboards, and data storytelling</li>
-        <li>Statistics and practical machine-learning foundations</li>
+        <li>Statistics, <b>time-series forecasting</b>, and practical machine-learning foundations</li>
+        <li>Deploying ML apps with <b>Streamlit</b> and Render</li>
         <li>Microsoft <b>DL-600</b> and <b>Data Analyst with AI</b> by Physics Wallah</li>
       </ul>
     </td>
@@ -78,7 +79,7 @@ I am learning to connect **biology + data + computation**: from analysing biolog
         <li>Molecular docking and structure-based drug discovery</li>
         <li>Molecular dynamics (MD) simulation fundamentals</li>
         <li>RNA-seq analysis and omics data exploration</li>
-        <li></li>
+        <li>Digital-twin style modelling of health and disease</li>
       </ul>
     </td>
   </tr>
@@ -92,9 +93,41 @@ I am learning to connect **biology + data + computation**: from analysing biolog
 
 ---
 
-## Projects
+## Featured Projects
+
+### Biology + Health
 
 <table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Type 2 Diabetes Digital Twin</h3>
+      <p align="center"><a href="https://type2diabetes-digitaltwin.streamlit.app/"><img src="https://img.shields.io/badge/Explore%20Live%20Project-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Explore Type 2 Diabetes Digital Twin" /></a></p>
+      <p align="center"><i>An interactive Streamlit app that models Type 2 diabetes as a digital twin.</i></p>
+      <p>
+        <img src="https://img.shields.io/badge/Digital%20Twin-16C784?style=flat-square" alt="Digital twin" />
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square" alt="Streamlit" />
+        <img src="https://img.shields.io/badge/Health%20Data-22D3EE?style=flat-square" alt="Health data" />
+      </p>
+      <ul>
+        <li>Explore how lifestyle and clinical factors shape disease outcomes</li>
+        <li>Interactive, browser-based simulation with no setup needed</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">DockLens</h3>
+      <p align="center"><a href="https://docklens-bioedge.streamlit.app/"><img src="https://img.shields.io/badge/Explore%20Live%20Project-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Explore DockLens" /></a></p>
+      <p align="center"><i>A Streamlit tool for exploring molecular docking results, part of the BioEdge ecosystem.</i></p>
+      <p>
+        <img src="https://img.shields.io/badge/Molecular%20Docking-16C784?style=flat-square" alt="Molecular docking" />
+        <img src="https://img.shields.io/badge/Drug%20Discovery-0A66C2?style=flat-square" alt="Drug discovery" />
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square" alt="Streamlit" />
+      </p>
+      <ul>
+        <li>Makes structure-based drug discovery outputs easier to read</li>
+        <li>Built for students learning computational drug design</li>
+      </ul>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">BioEdge India</h3>
@@ -129,40 +162,83 @@ I am learning to connect **biology + data + computation**: from analysing biolog
   </tr>
 </table>
 
-<br />
+### Data Analytics + Machine Learning
 
 <table>
   <tr>
-    <td width="100%" valign="top">
+    <td width="50%" valign="top">
+      <h3 align="center">EV Charging Demand Forecasting</h3>
+      <p align="center"><i>An end-to-end time-series project that turns raw EV charging sessions into demand forecasts and a Power BI dashboard.</i></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Time%20Series-16C784?style=flat-square" alt="Time series" />
+        <img src="https://img.shields.io/badge/Forecasting-0A66C2?style=flat-square" alt="Forecasting" />
+        <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square" alt="Power BI" />
+      </p>
+      <ul>
+        <li>Cleaned raw session data into a time-series dataset and ran exploratory analysis</li>
+        <li>Compared multiple forecasting approaches</li>
+        <li>Generated <b>30 / 90 / 365-day</b> demand forecasts</li>
+        <li>Presented results in an interactive Power BI dashboard</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">NYC Airbnb Predictor</h3>
+      <p align="center"><a href="https://nyc-room-type-predictor-gpjz.onrender.com/"><img src="https://img.shields.io/badge/Explore%20Live%20Project-46E3B7?style=for-the-badge&logo=render&logoColor=111827" alt="Explore NYC Airbnb Predictor" /></a></p>
+      <p align="center"><i>A machine-learning web app that predicts the room type of NYC Airbnb listings.</i></p>
+      <p>
+        <img src="https://img.shields.io/badge/Classification-16C784?style=flat-square" alt="Classification" />
+        <img src="https://img.shields.io/badge/Scikit--learn-0A66C2?style=flat-square" alt="scikit-learn" />
+        <img src="https://img.shields.io/badge/Deployed%20on%20Render-22D3EE?style=flat-square" alt="Deployed on Render" />
+      </p>
+      <ul>
+        <li>Trained on NYC listing data and served as a live web app</li>
+        <li>Enter listing details, get an instant prediction</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">DataLens Insights</h3>
+      <p align="center"><a href="https://datalens-insights.lovable.app/"><img src="https://img.shields.io/badge/Explore%20Live%20Project-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore DataLens Insights" /></a></p>
+      <p align="center"><i>A data exploration app for quickly turning datasets into insights.</i></p>
+      <p>
+        <img src="https://img.shields.io/badge/Data%20Exploration-16C784?style=flat-square" alt="Data exploration" />
+        <img src="https://img.shields.io/badge/Visual%20Insights-22D3EE?style=flat-square" alt="Visual insights" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
       <h3 align="center">HR Attrition Analysis Dashboard</h3>
       <p align="center"><i>An end-to-end HR analytics dashboard built on Microsoft Fabric and Power BI to uncover why employees leave.</i></p>
-      <p align="center">
+      <p>
         <img src="https://img.shields.io/badge/Microsoft%20Fabric-16C784?style=flat-square" alt="Microsoft Fabric" />
         <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square" alt="Power BI" />
-        <img src="https://img.shields.io/badge/Dataflow%20Gen2-0A66C2?style=flat-square" alt="Dataflow Gen2" />
         <img src="https://img.shields.io/badge/RLS%20%2F%20CLS%20Security-22D3EE?style=flat-square" alt="RLS and CLS security" />
       </p>
       <ul>
-        <li>Ingested and transformed HR data via <b>Dataflow Gen2</b> into a Fabric Lakehouse</li>
-        <li>Built calculated columns (Salary Band, Age Group) and a governed semantic model</li>
-        <li>Designed KPI cards, a decomposition tree, and conditional-formatted matrix visuals to surface attrition drivers by department, role, and salary band</li>
-        <li>Implemented <b>Row-Level Security</b> and <b>Column-Level Security</b> to restrict sensitive salary data to authorized roles</li>
+        <li>Ingested HR data via <b>Dataflow Gen2</b> into a Fabric Lakehouse</li>
+        <li>Built a governed semantic model with calculated columns</li>
+        <li>Designed KPI cards and a decomposition tree to surface attrition drivers</li>
+        <li>Implemented <b>Row-Level</b> and <b>Column-Level Security</b> for salary data</li>
       </ul>
     </td>
   </tr>
 </table>
 
-<div align="center">
- 
-</div>
+### Career + Tools
 
-<div align="center">
-
-### NEURAL FEED <sub><sup>IN PROGRESS</sup></sub>
-
-<i>An AI-news aggregator prototype built with React.</i>
-
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">nextup</h3>
+      <p align="center"><a href="https://pathfinder-forge-drab.vercel.app/"><img src="https://img.shields.io/badge/Explore%20Live%20Project-16C784?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore nextup" /></a></p>
+      <p align="center"><i>From confused to career-proof: a guide to finding your next step.</i></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Neural Feed <sub><sup>IN PROGRESS</sup></sub></h3>
+      <p align="center"><i>An AI-news aggregator prototype built with React.</i></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -176,6 +252,7 @@ I am learning to connect **biology + data + computation**: from analysing biolog
 <img src="https://img.shields.io/badge/pandas-071A2E?style=for-the-badge&logo=pandas&logoColor=FFFFFF" alt="pandas" />
 <img src="https://img.shields.io/badge/Seaborn-071A2E?style=for-the-badge&logo=python&logoColor=22D3EE" alt="seaborn" />
 <img src="https://img.shields.io/badge/Matplotlib-071A2E?style=for-the-badge&logo=python&logoColor=16C784" alt="Matplotlib" />
+<img src="https://img.shields.io/badge/Streamlit-071A2E?style=for-the-badge&logo=streamlit&logoColor=FF4B4B" alt="Streamlit" />
 <br />
 <img src="https://img.shields.io/badge/SQL-0A66C2?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
 <img src="https://img.shields.io/badge/R-0A66C2?style=for-the-badge&logo=r&logoColor=white" alt="R" />
@@ -183,6 +260,7 @@ I am learning to connect **biology + data + computation**: from analysing biolog
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111827" alt="Power BI" />
 <img src="https://img.shields.io/badge/Microsoft%20Fabric-16C784?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Fabric" />
 <img src="https://img.shields.io/badge/Machine%20Learning-16C784?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine learning" />
+<img src="https://img.shields.io/badge/Time%20Series-16C784?style=for-the-badge" alt="Time series forecasting" />
 
 <br />
 <br />
