@@ -127,8 +127,6 @@ I enjoy taking a problem from raw data to a working result: cleaning datasets, e
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanchitKRai&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&title_color=00D4AA&bg_color=0D1117" alt="Top languages" />
   <br/><br/>
   <img width="95%" src="https://streak-stats.demolab.com/?user=SanchitKRai&theme=tokyonight&hide_border=true&border_radius=12&ring=00D4AA&fire=4C8DFF&currStreakLabel=00D4AA&background=0D1117" alt="GitHub contribution streak" />
-  <br/><br/>
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SanchitKRai&bg_color=0D1117&color=00D4AA&line=4C8DFF&point=FFFFFF&area=true&area_color=123B69&hide_border=true&radius=12" alt="GitHub activity graph" />
 </div>
 
 ### 🐍 Contribution snake
