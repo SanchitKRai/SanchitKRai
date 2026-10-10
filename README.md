@@ -140,13 +140,19 @@ I enjoy taking a problem from raw data to a working result: cleaning datasets, e
 </picture>
 </div>
 
-### 🏆 Trophies
+### 🏆 Trophies & Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SanchitKRai&theme=tokyonight&no-frame=true&no-bg=false&column=7&margin-w=10&margin-h=10" alt="GitHub trophies" />
+  <a href="https://github.com/SanchitKRai?tab=repositories">
+    <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Projects-181717?style=for-the-badge&logo=github" alt="Explore my GitHub projects" />
+  </a>
+  <br/><br/>
+  <p>Building projects, learning new skills, and improving through consistent practice. 🚀</p>
 </div>
 
-<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
+<div align="center">
+  <img src="./assets/divider.svg" width="100%" alt="" />
+</div>
 
 ## 🌱 What I'm working toward
 
