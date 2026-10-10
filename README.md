@@ -4,7 +4,7 @@
 <img src="./assets/header.svg" width="100%" alt="Sanchit Kumar Rai — Data Science, Machine Learning, Analytics and Computational Biology" />
 
 <a href="https://readme-typing-svg.herokuapp.com">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=700&color=00D4AA&center=true&vCenter=true&width=850&height=40&lines=I+turn+messy+data+into+useful+decisions.;Building+ML+apps%2C+forecasts%2C+and+interactive+dashboards.;Life+Sciences+%C3%97+AI+%C3%97+Data+Analytics;Learning+by+shipping+real+projects." alt="Animated introduction" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=700&color=00D4AA&center=true&vCenter=true&width=850&height=40&lines=I+turn+messy+data+into+meaningful+insights;I+build+data-driven+tools+for+biology+and+healthcare" />
 </a>
 
 <br/><br/>
@@ -31,7 +31,7 @@
 
 Hey, I'm **Sanchit** — a **B.Sc. Life Sciences student at Sri Aurobindo College, University of Delhi**, building projects at the intersection of data, software, and biology.
 
-I enjoy taking a problem from raw data to a working result: cleaning datasets, exploring patterns, building predictive models, forecasting demand, and turning analysis into dashboards or small web apps. My life-sciences background also gives me a reason to explore healthcare AI and computational biology.
+I enjoy taking a problem from raw data to a working result: cleaning datasets, exploring patterns, building predictive models, forecasting demand, and turning analysis into dashboards or small web apps.
 
 ### 🎛️ My current portfolio mix
 
@@ -123,20 +123,20 @@ I enjoy taking a problem from raw data to a working result: cleaning datasets, e
 ## 📊 GitHub at a glance
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SanchitKRai&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&title_color=00D4AA&icon_color=4C8DFF&bg_color=0D1117" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanchitKRai&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&title_color=00D4AA&bg_color=0D1117" alt="Most used languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SanchitKRai&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&title_color=00D4AA&icon_color=4C8DFF&bg_color=0D1117" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanchitKRai&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&title_color=00D4AA&bg_color=0D1117" alt="Top languages" />
   <br/><br/>
   <img width="95%" src="https://streak-stats.demolab.com/?user=SanchitKRai&theme=tokyonight&hide_border=true&border_radius=12&ring=00D4AA&fire=4C8DFF&currStreakLabel=00D4AA&background=0D1117" alt="GitHub contribution streak" />
   <br/><br/>
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SanchitKRai&bg_color=0D1117&color=00D4AA&line=4C8DFF&point=FFFFFF&area=true&area_color=123B69&hide_border=true&radius=12" alt="Contribution activity graph" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SanchitKRai&bg_color=0D1117&color=00D4AA&line=4C8DFF&point=FFFFFF&area=true&area_color=123B69&hide_border=true&radius=12" alt="GitHub activity graph" />
 </div>
 
 ### 🐍 Contribution snake
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SanchitKRai/SanchitKRai/output/github-snake-dark.svg" />
-  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/SanchitKRai/SanchitKRai/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SanchitKRai/SanchitKRai/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/SanchitKRai/SanchitKRai/output/github-contribution-grid-snake.svg" />
 </picture>
 </div>
 
